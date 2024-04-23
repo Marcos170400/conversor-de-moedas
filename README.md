@@ -2,6 +2,9 @@
 
 A aplicação referida utiliza a API ExchangeRate para realizar a conversão entre 4 moedas específicas (real brasileiro, dólar, peso argentino e peso colombiano). Para isso, o usuário é apresentado a um menu interativo com 7 opções onde ele poderá escolher a moeda que deseja converter e para qual moeda deseja converter um valor também informado através do console. O usuário pode também escolher uma opção para encerrar a execução do programa.
 
+![conversor_moedas](https://github.com/Marcos170400/conversor-de-moedas/assets/137320023/3c55b9fd-c9e9-4c8d-82c7-73dd9fa45e7e)
+
+
 # Funcionalidade
 
 Para utilizar a aplicação, o usuário deve escolher a opção em que deseja realizar a conversão, por exemplo, se ele deseja converter 100 dólares em reais, o mesmo deve escolher a opção 3 e posteriormente informar o valor de 100 dólares.
