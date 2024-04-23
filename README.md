@@ -8,7 +8,7 @@ Para utilizar a aplicação, o usuário deve escolher a opção em que deseja re
 
 A partir da escolha, o programa fará uma requisição a API referida e realizará a conversão entre as moedas (considerando a cotação mais atualizada o possível dentro da API). Por fim, o programa retornará o valor convertido ao usuário, dando a opção do mesmo realizar novas conversões ou sair da aplicação.
 
-#Classes
+# Classes
 
 Principal.java:
 
